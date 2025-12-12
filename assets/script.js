@@ -1,4 +1,4 @@
-// Everything here stays the same; this script works for both index.html and handhlegal.html
+// Everything here stays the same; this script works for both index.html and handhforms.html
 
 const navToggle=document.querySelector('[data-nav-toggle]');
 const navList=document.querySelector('[data-nav]');
